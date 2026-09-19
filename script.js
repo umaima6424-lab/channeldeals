@@ -127,7 +127,7 @@ buyButtons.forEach(button => {
                     `
                 }
 
-                <a href="https://t.me/TubeYt"
+                <a href="https://t.me/tubeyt2"
                    target="_blank"
                    class="purchase-option purchase-telegram">
                     <i class="fa-brands fa-telegram"></i>
